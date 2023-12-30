@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d31bb02663b132149b81ee59c05844f1, type: 3}
+  m_Name: PureAppleRecipe
+  m_EditorClassIdentifier: 
+  craftingItems:
+  - {fileID: 11400000, guid: a0fa2502bf193f14f98b0e6971ea75f1, type: 2}
+  - {fileID: 11400000, guid: a0fa2502bf193f14f98b0e6971ea75f1, type: 2}
+  - {fileID: 11400000, guid: a0fa2502bf193f14f98b0e6971ea75f1, type: 2}
+  product: {fileID: 11400000, guid: 2189d2b7402bae04793b8871dc3d9e17, type: 2}
